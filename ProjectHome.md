@@ -1,0 +1,1 @@
+help seeking plugin for developer in the eclipse platform
